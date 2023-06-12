@@ -19,4 +19,4 @@ The **back-end** is constructed using **`Folium`** and **`TextBlob`**.
 - **`Sentiment_map.py`** creates a sentiment heatmap using `Folium` by scraping Twitter tweets based on the country entered and assigning sentiments to each tweet using `TextBlob`'s natural language processing capabilities.
 
 ## Note:
-Sample carbon emissions and sentiment data was provided as testers since we did not have a Twitter's API key in order to access tweets. 
+Sample carbon emissions and sentiment `.csv` files for USA and Canada are provided as testers since we did not have a Twitter API key to access tweets. 
