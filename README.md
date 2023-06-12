@@ -1,8 +1,9 @@
 # SentiMap
 **Climate change is an urgent and critical global issue that threatens our planet and its inhabitants.**
 
-SentiMap is a full-stack machine learning and data visualization software that allows users to gain crucial insights into public sentiments surrounding climate change. It has two functionalities: **display sentiment analysis** and **display carbon emissions analysis**. 
+SentiMap is a full-stack machine learning and data visualization software that allows users to gain crucial insights into public sentiments surrounding climate change. 
 
+It has two functionalities: **display sentiment analysis** and **display carbon emissions analysis**. 
 - **Display sentiment analysis** is accomplished by **scraping** Twitter tweets based on country inputted, using **sentiment analysis** to assign a sentiment (from very positive to very negative) to each tweet, and displaying it in a **heatmap**. 
 - **Display carbon emissions analysis** is accomplished by **analysing** a country's carbons emissions and displaying it in a **heatmap**. 
 
